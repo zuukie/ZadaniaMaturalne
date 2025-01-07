@@ -71,7 +71,7 @@
 # komput
 
 # # Rozwiązanie podpunktu a)
-f = open("Dane/hasla.txt", "r")
+f = open("../Dane/hasla.txt", "r")
 parzyste = 0
 nieparzyste = 0
 
@@ -96,7 +96,7 @@ def czyPalindrom(word):
             return False
     return True
 
-f = open("Dane/hasla.txt", "r")
+f = open("../Dane/hasla.txt", "r")
 print("Podpunkt b)")
 
 for line in f:
@@ -108,7 +108,7 @@ f.close()
 print("")
 
 # Rozwiązanie podpunktu c)
-f = open("Dane/hasla.txt", "r")
+f = open("../Dane/hasla.txt", "r")
 print("Podpunkt c)")
 
 def count(word):
