@@ -26,6 +26,7 @@ Niedostateczne: 6
 ```
 
 #### Podpunkt e)
+
 ```
 prehistoria	278
 starożytność	263
@@ -33,3 +34,4 @@ starożytność	263
 historia nowożytna	320
 historia najnowsza	298
 ```
+![image](https://github.com/user-attachments/assets/6482c1b6-6377-4074-8113-fadac05071ef)
