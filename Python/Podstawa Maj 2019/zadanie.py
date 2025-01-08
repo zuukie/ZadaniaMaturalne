@@ -3,37 +3,36 @@ f = open("dane.txt", "r")
 f2 = open("przyklad.txt", "r")
 
 ## 6.1
-# male = 0
-# female = 0
-#
-# for line in f:
-#     line = line.strip()
-#     gender = int(line[-2])
-#     if gender % 2 == 0:
-#         female += 1
-#     else:
-#         male += 1
-#
-# print("Mężczyzn:", male)
-# print("Kobiet:", female)
+male = 0
+female = 0
+
+for line in f:
+    line = line.strip()
+    gender = int(line[-2])
+    if gender % 2 == 0:
+        female += 1
+    else:
+        male += 1
+
+print("Mężczyzn:", male)
+print("Kobiet:", female)
 
 
 ## 6.2
+def getMonth(pesel):
+    month = int(pesel[2:4])
+    if month <= 12:
+        return month
+    else:
+        return month - 20
 
-# def getMonth(pesel):
-#     month = int(pesel[2:4])
-#     if month <= 12:
-#         return month
-#     else:
-#         return month - 20
-#
-# count = 0
-# for line in f:
-#     line = line.strip()
-#     if getMonth(line) == 11:
-#         count += 1
-#
-# print(count)
+count = 0
+for line in f:
+    line = line.strip()
+    if getMonth(line) == 11:
+        count += 1
+
+print(count)
 
 ## 6.3
 multiply = {

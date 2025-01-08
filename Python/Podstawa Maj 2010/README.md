@@ -1,4 +1,5 @@
 ## Zadanie 4 - Palindromy // podstawa, maj 2010
+https://arkusze.pl/matura-informatyka-2010-maj-poziom-podstawowy/
 ###### wykonane dnia 08.01.2025
 
 ### Odpowiedź:
