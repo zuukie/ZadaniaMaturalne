@@ -4,7 +4,7 @@ def palindrom(word):
             return False
     return True
 
-f = open("../Dane/dane.txt", "r")
+f = open("dane.txt", "r")
 
 for line in f:
     line = line.strip()

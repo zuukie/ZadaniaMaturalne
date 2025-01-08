@@ -1,4 +1,4 @@
-F = open("../Dane/liczby.txt", "r")
+F = open("liczby.txt", "r")
 
 def liczbaPierwsza(number):
     for i in range(2, int(number**(1/2)) + 1):
