@@ -12,7 +12,7 @@ https://arkusze.pl/
 
 ## 🐍 Python
 ### Matura rozszerzona:
-- []()
+- [Kwiecień 2020 - Luki w ciągu](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Kwiecień%202020) 🔴
 
 ### Matura podstawowa:
 - [Maj 2019 - Numery PESEL](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202019) 🟢
