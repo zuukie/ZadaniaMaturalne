@@ -12,6 +12,7 @@ https://arkusze.pl/
 
 ## 🐍 Python
 ### Matura rozszerzona:
+- [Grudzień 2022 - Kosmiczny mecz](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202022) 🟡
 - [Kwiecień 2020 - Luki w ciągu](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Kwiecień%202020) 🔴
 
 ### Matura podstawowa:
