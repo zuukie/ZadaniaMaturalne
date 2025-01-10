@@ -6,7 +6,7 @@ https://arkusze.pl/matura-probna-informatyka-2022-grudzien-poziom-rozszerzony/
 
 #### 1.1
 ```
-5031
+5030
 ```
 
 #### 1.2
