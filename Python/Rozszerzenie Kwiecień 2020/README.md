@@ -1,6 +1,6 @@
 ## Zadanie 4 - Luki w ciągu // rozszerzenie, próbna, kwiecień 2020
 https://arkusze.pl/matura-probna-informatyka-2020-kwiecien-poziom-rozszerzony/
-###### wykonane dnia 09.01.2025
+###### wykonane dnia 10.01.2025
 
 ### Odpowiedzi:
 
