@@ -37,6 +37,8 @@ Fotowoltaiczne: 30.04.2024
 23	0,00
 24	0,00
 ```
+![image](https://github.com/user-attachments/assets/6b8050b5-83b5-4717-95cb-33d79bc6313c)
+
 
 ### Zadanie 7.3
 ```
