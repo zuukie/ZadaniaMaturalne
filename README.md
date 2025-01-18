@@ -12,6 +12,7 @@ https://arkusze.pl/
 
 ## 🐍 Python
 ### Matura rozszerzona:
+- [Grudzień 2024 - Liczby czterocyfrowe, Prostokąty](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202024) 🟠
 - [Grudzień 2022 - Kosmiczny mecz](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202022) 🟡
 - [Kwiecień 2020 - Luki w ciągu](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Kwiecień%202020) 🔴
 
@@ -20,6 +21,7 @@ https://arkusze.pl/
 - [Maj 2018 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202018) 🟢
 - [Maj 2016 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202016) 🟢
 - [Maj 2015 - Słowa](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202015) 🟠
+- [Maj 2014 - Pary liczb](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202014) 🟠
 - [Maj 2013 - Napisy](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202013) 🟠
 - [Maj 2012 - Cyfry](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202012) 🟡
 - [Maj 2011 - Hasła](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202011) 🟡
@@ -28,6 +30,7 @@ https://arkusze.pl/
 
 ## 📈 Excel
 ### Matura rozszerzona:
+- [Grudzień 2024 - Energia odnawialna](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Grudzie%C5%84%202024) 🟡
 - [Maj 2021 - Wodociągi](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Maj%202021) 🟡
 
 ### Matura podstawowa:
