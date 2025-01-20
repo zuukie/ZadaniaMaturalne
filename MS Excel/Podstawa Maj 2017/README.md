@@ -44,3 +44,4 @@ paź	813,25
 lis	1107,8
 gru	893,16
 ```
+![image](https://github.com/user-attachments/assets/75817e0f-238c-4dcd-86a0-cef7af694c86)
