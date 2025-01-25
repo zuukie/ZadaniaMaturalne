@@ -31,6 +31,7 @@ https://arkusze.pl/
 ## 📈 Excel
 ### Matura rozszerzona:
 - [Grudzień 2024 - Energia odnawialna](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Grudzie%C5%84%202024) 🟡
+- [Lipiec 2020 - Szybka myjnia automatyczna](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Lipiec%202020)) 🔴
 - [Maj 2021 - Wodociągi](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Maj%202021) 🟡
 
 ### Matura podstawowa:
