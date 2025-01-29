@@ -63,8 +63,9 @@ Najmniej - T1 3 tony
 2018-10	0	20
 2018-11	24	76
 2018-12	0	0
-
 ```
+![image](https://github.com/user-attachments/assets/a0e5b0ce-b4ac-457c-a1f1-0f26e47a3cc0)
+
 
 ### Zadanie 6.5
 ```
