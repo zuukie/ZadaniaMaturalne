@@ -20,6 +20,8 @@ paź	4558
 lis	5502
 gru	3771
 ```
+![image](https://github.com/user-attachments/assets/b8e6482c-1cfd-454c-b030-1234df71ace5)
+
 
 #### 6.2
 ```
