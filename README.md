@@ -16,6 +16,7 @@ https://arkusze.pl/
 - [Grudzień 2022 - Kosmiczny mecz](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202022) 🟡
 - [Kwiecień 2020 - Luki w ciągu](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Kwiecień%202020) 🔴
 - [Maj 2018 - WEGA](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Maj%202018) 🟢
+- [Maj 2017 - Piksele](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Maj%202017) 🟡
 
 ### Matura podstawowa (wszystko zrobione):
 - [Czerwiec 2020 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Czerwiec%202020) 🟢
