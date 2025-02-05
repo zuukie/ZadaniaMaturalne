@@ -15,6 +15,7 @@ https://arkusze.pl/
 - [Grudzień 2024 - Liczby czterocyfrowe, Prostokąty](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202024) 🟠
 - [Grudzień 2022 - Kosmiczny mecz](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Grudzień%202022) 🟡
 - [Kwiecień 2020 - Luki w ciągu](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Kwiecień%202020) 🔴
+- [Maj 2018 - WEGA](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzenie%20Maj%202018) 🟢
 
 ### Matura podstawowa (wszystko zrobione):
 - [Czerwiec 2020 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Czerwiec%202020) 🟢
