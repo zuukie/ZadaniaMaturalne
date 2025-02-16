@@ -23,6 +23,7 @@ https://arkusze.pl/
 - [Czerwiec 2020 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Czerwiec%202020) 🟢
 - [Maj 2019 - Numery PESEL](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202019) 🟢
 - [Maj 2018 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202018) 🟢
+- [Maj 2017 - Trójki liczb](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202017) 🟢
 - [Maj 2016 - Liczby](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202016) 🟢
 - [Maj 2015 - Słowa](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202015) 🟠
 - [Maj 2014 - Pary liczb](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Podstawa%20Maj%202014) 🟠
