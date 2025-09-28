@@ -47,6 +47,7 @@ https://arkusze.pl/
 - [Maj 2016 - Demografia](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202016) 🟢
 - [Maj 2013 - Fundusze](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202013) 🟢
 - [Maj 2011 - Badanie wyników](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202011) 🟢
+- [Maj 2010 - Upusty](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202010) 🟢
 - [Maj 2009 - Temperatury](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202009) 🟠
 
 ## 🛢️ Access
