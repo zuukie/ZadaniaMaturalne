@@ -40,7 +40,7 @@ https://arkusze.pl/
 - [Lipiec 2020 - Szybka myjnia automatyczna](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Lipiec%202020) 🔴
 - [Czerwiec 2020 - Statek](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Rozszerzona%20Czerwiec%202020) 🟡
 
-### Matura podstawowa:
+### Matura podstawowa (wszystko zrobione):
 - [Czerwiec 2020 - Wyniki](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Czerwiec%202020) 🟢
 - [Maj 2019 - Konkurs](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202019) 🟡
 - [Maj 2018 - Makulatura](https://github.com/zuukie/ZadaniaMaturalne/tree/main/MS%20Excel/Podstawa%20Maj%202018) 🟢
