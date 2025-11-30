@@ -12,6 +12,7 @@ https://arkusze.pl/
 
 ## 🐍 Python
 ### Matura rozszerzona:
+- [Czerwiec 2025 - Ukryte numery](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzona%202025%20Czerwiec) 🟡
 - [Grudzień 2024 - Liczby czterocyfrowe, Prostokąty](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzona%202024%20Grudzie%C5%84) 🟠
 - [Grudzień 2022 - Kosmiczny mecz](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzona%202022%20Grudzie%C5%84)🟡
 - [Maj 2021 - Neon cyfrowy](https://github.com/zuukie/ZadaniaMaturalne/tree/main/Python/Rozszerzona%202021%20Maj) 🟡
